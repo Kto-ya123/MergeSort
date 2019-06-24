@@ -1,0 +1,12 @@
+# depslib dependency file v1.0
+1561023289 source:/home/ITRANSITION.CORP/a.luzgin/example/MergeSort/main.cpp
+	<algorithm>
+	<vector>
+	<iterator>
+
+1561023310 source:/home/ITRANSITION.CORP/a.luzgin/example/MergeSort/main2.cpp
+	<iostream>
+	<algorithm>
+	<vector>
+	<iterator>
+
